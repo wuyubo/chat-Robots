@@ -1,0 +1,8 @@
+E:\C#_vs\ChatRobots\ChatRobots\ChatRobots\bin\x86\Debug\ChatRobots.exe
+E:\C#_vs\ChatRobots\ChatRobots\ChatRobots\bin\x86\Debug\ChatRobots.pdb
+E:\C#_vs\ChatRobots\ChatRobots\ChatRobots\obj\x86\Debug\ChatRobots.Properties.Resources.resources
+E:\C#_vs\ChatRobots\ChatRobots\ChatRobots\obj\x86\Debug\ChatRobots.csproj.GenerateResource.Cache
+E:\C#_vs\ChatRobots\ChatRobots\ChatRobots\obj\x86\Debug\ChatRobots.exe
+E:\C#_vs\ChatRobots\ChatRobots\ChatRobots\obj\x86\Debug\ChatRobots.pdb
+E:\C#_vs\ChatRobots\ChatRobots\ChatRobots\obj\x86\Debug\ChatRobots.csprojResolveAssemblyReference.cache
+E:\C#_vs\ChatRobots\ChatRobots\ChatRobots\obj\x86\Debug\ChatRobots.聊天机器人.resources
